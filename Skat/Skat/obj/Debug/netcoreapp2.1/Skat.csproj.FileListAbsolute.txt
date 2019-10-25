@@ -1,0 +1,8 @@
+C:\Users\Pasoon\source\repos\Skat\Skat\bin\Debug\netcoreapp2.1\Skat.deps.json
+C:\Users\Pasoon\source\repos\Skat\Skat\bin\Debug\netcoreapp2.1\Skat.dll
+C:\Users\Pasoon\source\repos\Skat\Skat\bin\Debug\netcoreapp2.1\Skat.pdb
+C:\Users\Pasoon\source\repos\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.csproj.CoreCompileInputs.cache
+C:\Users\Pasoon\source\repos\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.AssemblyInfoInputs.cache
+C:\Users\Pasoon\source\repos\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.AssemblyInfo.cs
+C:\Users\Pasoon\source\repos\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.dll
+C:\Users\Pasoon\source\repos\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.pdb
